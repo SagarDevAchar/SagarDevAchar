@@ -1,6 +1,7 @@
 ## Hi there, I'm Sagar 👋
 
 A 20-year old Self-taught **Coder** and **Maker** who is Coding and Making stuff since 2015 💻⚡
+
 ![SagarDevAchar's Skillset](https://user-images.githubusercontent.com/51400137/116955707-ee781200-acb0-11eb-82c8-dcebe4fd81fa.png)
 
 Here are a few **stats** of the work I've done (as of 3rd May 2021, generated using *[CodeCounter](https://github.com/SagarDevAchar/CodeCounter)*):
