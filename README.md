@@ -54,7 +54,7 @@ Here are a few **stats** of the work I've done (as of 3rd May 2021, generated us
 - Machine Learning with TensorFlow and Keras
 - Image Processing and Compression using Transform Calculus
 
-## How to reach me 📫
+### How to reach me 📫
 [LinkedIn](https://www.linkedin.com/in/sagar-dev-achar/)
 <a href="https://www.linkedin.com/in/sagar-dev-achar/">
   <img align="left" alt="Sagar Dev Achar on LinkedIn" width="25px" src="https://user-images.githubusercontent.com/51400137/116963311-2473c100-acc6-11eb-92eb-aa2231826fa1.png"/>
