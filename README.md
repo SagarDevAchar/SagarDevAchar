@@ -49,6 +49,7 @@ Here are a few **stats** of the work I've done (as of 3rd May 2021, generated us
 ### I’m currently working on 🔨
 
 - 3 Android Apps (out of which 1 will go live on Play Store soon)
+- A Troll Website (will go live shortly after)
 
 ### I’m currently learning 📚
 
