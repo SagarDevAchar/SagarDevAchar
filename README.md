@@ -17,7 +17,7 @@ Here are a few **stats** of the work I've done (as of 3rd May 2021, generated us
 </thead>
 <tbody>
   <tr>
-    <th>Total Line Count</th>
+    <th>Total Lines Coded</th>
     <td>13670 lines</td>
     <td>1664 lines</td>
     <td>2766 lines</td>
