@@ -1,4 +1,4 @@
-## Hi there, I'm Sagar 👋
+## Hey there, I'm Sagar 👋
 
 A 20-year old Self-taught **Coder** and **Maker** who is Coding and Making stuff since 2015 💻⚡
 
@@ -46,9 +46,18 @@ Here are a few **stats** of the work I've done (as of 3rd May 2021, generated us
 
 ##
 
+### Recent Activity 🔥
+
+**quickMath**, A Basic Arithmetic App I developed (under the dev name *[AndroDevSDA](https://play.google.com/store/apps/dev?id=5751796953368988342)*) is now **LIVE** on *Google Play Store*
+
+You can check out the app [here](https://play.google.com/store/apps/details?id=com.sda.quickmath) or by scanning the QR Code below
+
+![quickMath Production GH Banner](https://user-images.githubusercontent.com/51400137/117926268-2406a600-b316-11eb-81bd-01fa3779e37d.png)
+
+
 ### I’m currently working on 🔨
 
-- 3 Android Apps (out of which 1 will go live on Play Store soon)
+- 2 Android Apps
 - A Troll Website (will go live shortly after)
 
 ### I’m currently learning 📚
