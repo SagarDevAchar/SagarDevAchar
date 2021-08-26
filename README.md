@@ -52,10 +52,11 @@ Here are a few **stats** of the work I've done (as of 17th July 2021, generated 
 
 ![TTT-OUE Infographics Full](https://user-images.githubusercontent.com/51400137/130944808-9d09198e-4555-4304-a39f-406edfdb973e.png)
 
-Each player has pieces of 3 sizes
-A piece can be overridden by a bigger one!
-The first one to get three in a row of their color wins!
-Play strategically to win!
+Rules of the Improved Game
+- Each player has pieces of 3 sizes
+- A piece can be overridden by a bigger one!
+- The first one to get three in a row of their color wins!
+- Play strategically to win!
 
 You can check out the app [here](https://play.google.com/store/apps/details?id=com.sda.ttt)
 
