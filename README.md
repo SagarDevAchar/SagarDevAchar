@@ -48,16 +48,20 @@ Here are a few **stats** of the work I've done (as of 17th July 2021, generated 
 
 ### Recent Activity 🔥
 
-**quickMath**, A Basic Arithmetic App I developed (under the dev name *[AndroDevSDA](https://play.google.com/store/apps/dev?id=5751796953368988342)*) is now **LIVE** on *Google Play Store*
+**TicTacToe : One-Up Edition**, an Improved Version of the Classic (yet boring) Tic Tac Toe (also known as Noughts and Crosses or XOX)  is now **LIVE** on *Google Play Store* (under the brand name *[Moonlight App Studios](https://play.google.com/store/apps/dev?id=5751796953368988342)*)
 
-You can check out the app [here](https://play.google.com/store/apps/details?id=com.sda.quickmath) or by scanning the QR Code below
+![TTT-OUE Infographics Full](https://user-images.githubusercontent.com/51400137/130944808-9d09198e-4555-4304-a39f-406edfdb973e.png)
 
-![quickMath Production GH Banner](https://user-images.githubusercontent.com/51400137/117926268-2406a600-b316-11eb-81bd-01fa3779e37d.png)
+Each player has pieces of 3 sizes
+A piece can be overridden by a bigger one!
+The first one to get three in a row of their color wins!
+Play strategically to win!
 
+You can check out the app [here](https://play.google.com/store/apps/details?id=com.sda.ttt)
 
 ### I’m currently working on 🔨
 
-- 1 Android Game (Currently under Alpha Testing)
+- TicTacToe : One-Up Edition
 - 1 Android App
 
 ### I’m currently learning 📚
@@ -74,7 +78,7 @@ You can check out the app [here](https://play.google.com/store/apps/details?id=c
 
 [Google Developers](https://developers.google.com/profile/u/110898118534920237945)
 <a href="https://developers.google.com/profile/u/110898118534920237945">
-  <img align="left" alt="Sagar Dev Achar on Google Developers" width="25px" src="https://developers.google.com/site-assets/images/news/gdev-dsc-leads.svg"/>
+  <img align="left" alt="Sagar Dev Achar on Google Developers" width="25px" src="https://developers.google.com/site-assets/developers_64dp_480.png"/>
 </a>
 
 [Stack Overflow](https://stackoverflow.com/users/9939262/sagar)
