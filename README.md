@@ -2,7 +2,7 @@
 
 A 20-year old Self-taught **Coder** and **Maker** who is Coding and Making stuff since 2015 💻⚡
 
-![SagarDevAchar's Skillset](https://user-images.githubusercontent.com/51400137/116955707-ee781200-acb0-11eb-82c8-dcebe4fd81fa.png)
+![SagarDevAchar's Skillset](https://user-images.githubusercontent.com/51400137/148717363-56207417-0b41-4d9c-a3a7-ed313be2b546.png)
 
 Here are a few **stats** of the work I've done (as of 17th July 2021, generated using *[CodeCounter](https://github.com/SagarDevAchar/CodeCounter)*):
 <table>
@@ -63,7 +63,8 @@ You can check out the app [here](https://play.google.com/store/apps/details?id=c
 ### I’m currently working on 🔨
 
 - TicTacToe : One-Up Edition
-- 1 Android App
+- 2 other Android Apps
+- IEC61851-1 compliant EV Charging Station and Simulator
 
 ### I’m currently learning 📚
 
