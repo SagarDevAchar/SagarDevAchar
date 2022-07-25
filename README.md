@@ -4,7 +4,7 @@ A 20-year old Self-taught **Coder** and **Maker** who is Coding and Making stuff
 
 ![SagarDevAchar's Skillset](https://user-images.githubusercontent.com/51400137/148717363-56207417-0b41-4d9c-a3a7-ed313be2b546.png)
 
-Here are a few **stats** of the work I've done (as of 17th July 2021, generated using *[CodeCounter](https://github.com/SagarDevAchar/CodeCounter)*):
+Here are a few **stats** of the work I've done (as of 25th July 2022, generated using *[CodeCounter](https://github.com/SagarDevAchar/CodeCounter)*):
 <table>
 <thead>
   <tr>
@@ -19,10 +19,10 @@ Here are a few **stats** of the work I've done (as of 17th July 2021, generated 
 <tbody>
   <tr>
     <th>Total Lines Coded</th>
-    <td>17178 lines</td>
-    <td>1825 lines</td>
-    <td>2766 lines</td>
-    <td>2829 lines</td>
+    <td>26100 lines</td>
+    <td>1825+ lines</td>
+    <td>2766+ lines</td>
+    <td>2829+ lines</td>
     <td>-</td>
   </tr>
   <tr>
@@ -35,11 +35,11 @@ Here are a few **stats** of the work I've done (as of 17th July 2021, generated 
   </tr>
   <tr>
     <th>Files / Projects</th>
-    <td>228 files</td>
-    <td>47 files</td>
-    <td>51 files</td>
-    <td>41 projects</td>
-    <td>27 projects</td>
+    <td>337 files</td>
+    <td>47+ files</td>
+    <td>51+ files</td>
+    <td>41+ projects</td>
+    <td>27+ projects</td>
   </tr>
 </tbody>
 </table>
@@ -93,7 +93,12 @@ You can check out the app [here](https://play.google.com/store/apps/details?id=c
   <img align="left" alt="AndroDevSDA on Google Play" width="25px" src="https://www.gstatic.com/images/branding/product/2x/play_prism_64dp.png"/>
 </a>
 
-[Instagram](https://www.instagram.com/0x5da/)
-<a href="https://www.instagram.com/0x5da/">
+[My Music on Instagram](https://www.instagram.com/1498.wav/)
+<a href="https://www.instagram.com/1498.wav/">
+  <img align="left" alt="0x5DA on Instagram" width="25px" src="https://duckduckgo.com/assets/icons/thirdparty/instagram.svg"/>
+</a>
+
+[My Animations on Instagram](https://www.instagram.com/looooopz.aep/)
+<a href="https://www.instagram.com/looooopz.aep/">
   <img align="left" alt="0x5DA on Instagram" width="25px" src="https://duckduckgo.com/assets/icons/thirdparty/instagram.svg"/>
 </a>
