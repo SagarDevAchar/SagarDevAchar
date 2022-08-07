@@ -1,3 +1,7 @@
+<!--
+REFERENCE: https://github.com/itsZed0/itsZed0/blob/main/README.md?plain=1
+-->
+
 ## Hey there, I'm Sagar 👋
 
 A 21-year old Self-taught **Coder** and **Maker** who is Coding and Making stuff since 2015 💻⚡
@@ -44,7 +48,23 @@ Here are a few **stats** of the work I've done (as of 25th July 2022, generated 
 </tbody>
 </table>
 
-##
+### My Stats 🔥
+
+<!--
+<a href="https://git.io/streak-stats">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=SagarDevAchar&theme=great-gatsby&hide_border=true" />
+</a>
+<a href="https://github-readme-stats.vercel.app/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SagarDevAchar&theme=great-gatsby&show_icons=true&hide_border=true&count_private=true" />
+</a>
+-->
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SagarDevAchar&theme=great-gatsby&hide_border=true)](https://git.io/streak-stats)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SagarDevAchar&theme=great-gatsby&show_icons=true&hide_border=true&count_private=true)](https://github-readme-stats.vercel.app/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SagarDevAchar&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Recent Activity 🔥
 
