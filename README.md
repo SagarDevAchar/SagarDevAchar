@@ -59,7 +59,7 @@ Here are a few **stats** of the work I've done (as of 25th July 2022, generated 
 </a>
 -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SagarDevAchar&theme=great-gatsby&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SagarDevAchar&theme=great-gatsby&hide_border=true&count_private=true)](https://git.io/streak-stats)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SagarDevAchar&theme=great-gatsby&show_icons=true&hide_border=true&count_private=true)](https://github-readme-stats.vercel.app/)
 
