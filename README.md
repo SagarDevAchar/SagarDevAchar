@@ -8,6 +8,8 @@ A 21-year old Self-taught **Coder** and **Maker** who is Coding and Making stuff
 
 ![SagarDevAchar's Skillset](https://user-images.githubusercontent.com/51400137/148717363-56207417-0b41-4d9c-a3a7-ed313be2b546.png)
 
+### My Stats 🔥
+
 Here are a few **stats** of the work I've done (as of 25th July 2022, generated using *[CodeCounter](https://github.com/SagarDevAchar/CodeCounter)*):
 <table>
 <thead>
@@ -48,8 +50,6 @@ Here are a few **stats** of the work I've done (as of 25th July 2022, generated 
 </tbody>
 </table>
 
-### My Stats 🔥
-
 <!--
 <a href="https://git.io/streak-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=SagarDevAchar&theme=great-gatsby&hide_border=true" />
@@ -59,9 +59,9 @@ Here are a few **stats** of the work I've done (as of 25th July 2022, generated 
 </a>
 -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SagarDevAchar&theme=great-gatsby&hide_border=true&count_private=true)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SagarDevAchar&theme=great-gatsby&hide_border=true&count_private=true)](https://git.io/streak-stats) -->
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SagarDevAchar&theme=great-gatsby&show_icons=true&hide_border=true&count_private=true)](https://github-readme-stats.vercel.app/)
+<!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SagarDevAchar&theme=great-gatsby&show_icons=true&hide_border=true&count_private=true)](https://github-readme-stats.vercel.app/) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SagarDevAchar&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
