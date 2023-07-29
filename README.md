@@ -125,7 +125,7 @@ You can check out the app [here](https://play.google.com/store/apps/details?id=c
   <img align="left" alt="0x5DA on Instagram" width="25px" src="https://duckduckgo.com/assets/icons/thirdparty/instagram.svg"/>
 </a>
 
-[My Animations on Instagram](https://www.instagram.com/looooopz.aep/)
-<a href="https://www.instagram.com/looooopz.aep/">
-  <img align="left" alt="0x5DA on Instagram" width="25px" src="https://duckduckgo.com/assets/icons/thirdparty/instagram.svg"/>
+[My Research Work](https://orcid.org/0009-0005-0344-885X)
+<a href="https://orcid.org/0009-0005-0344-885X">
+  <img align="left" alt="Sagar Dev Achar on ORCID" width="25px" src="https://orcid.org/assets/vectors/orcid.logo.icon.svg"/>
 </a>
