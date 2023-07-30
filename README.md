@@ -102,7 +102,7 @@ You can check out the app [here](https://play.google.com/store/apps/details?id=c
 ### My Social Presence 📫
 [LinkedIn](https://www.linkedin.com/in/sagar-dev-achar/)
 <a href="https://www.linkedin.com/in/sagar-dev-achar/">
-  <img align="left" alt="Sagar Dev Achar on LinkedIn" width="25px" src="https://user-images.githubusercontent.com/51400137/116963311-2473c100-acc6-11eb-92eb-aa2231826fa1.png"/>
+  <img align="left" alt="Sagar Dev Achar on LinkedIn" width="25px" src="https://github.com/SagarDevAchar/SagarDevAchar/assets/51400137/5c00d60e-8735-4349-8eed-3a4ddbf4feda"/>
 </a>
 
 [Google Developers](https://developers.google.com/profile/u/110898118534920237945)
