@@ -104,16 +104,17 @@ Here are a few **stats** of the work I've done (as of 25th July 2022, generated 
 
 ### Recent Activity 🔥
 
+<!--
 The **Steganography Made Fun!** Toolkit is a 3 part project which aims to simplify Steganography and make it fun
 - Part 1: [The TXT Hider](https://sagardevachar.github.io/TheTXTHider/)
 - Part 2: [The MP3 Photographer](https://sagardevachar.github.io/TheMP3Photographer/)
 - Part 3: [The PNG Musician](https://sagardevachar.github.io/ThePNGMusician/)
 
 [![TPM TMP Logo 0](https://user-images.githubusercontent.com/51400137/184077734-01c4a017-067f-47ea-bf25-d75eba3caf6a.png)](https://sagardevachar.github.io/TheTXTHider/)
+-->
+![TTT-OUE Infographics Full](https://user-images.githubusercontent.com/51400137/130944808-9d09198e-4555-4304-a39f-406edfdb973e.png)
 
 **TicTacToe : One-Up Edition**, an Improved Version of the Classic (yet boring) Tic Tac Toe (also known as Noughts and Crosses or XOX)  is now **LIVE** on *Google Play Store* (under the brand name *[Moonlight App Studios](https://play.google.com/store/apps/dev?id=5751796953368988342)*)
-
-![TTT-OUE Infographics Full](https://user-images.githubusercontent.com/51400137/130944808-9d09198e-4555-4304-a39f-406edfdb973e.png)
 
 Rules of the Improved Game
 - Each player has pieces of 3 sizes
@@ -123,6 +124,7 @@ Rules of the Improved Game
 
 You can check out the app [here](https://play.google.com/store/apps/details?id=com.sda.ttt)
 
+<!--
 ### I’m currently working on 🔨
 
 - TicTacToe : One-Up Edition
@@ -134,5 +136,4 @@ You can check out the app [here](https://play.google.com/store/apps/details?id=c
 - Machine Learning with TensorFlow and Keras
 - CNN, RNN, LSTM
 - Image Processing and Compression using Transform Calculus
-
-
+-->
