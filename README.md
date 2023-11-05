@@ -19,6 +19,11 @@ A 22-year old Self-taught **Coder** and **Maker** who is Coding and Making stuff
   <img align="left" alt="Sagar Dev Achar on ORCID" width="25px" src="https://orcid.org/assets/vectors/orcid.logo.icon.svg"/>
 </a>
 
+[Google Play](https://play.google.com/store/apps/dev?id=5751796953368988342)
+<a href="https://play.google.com/store/apps/dev?id=5751796953368988342">
+  <img align="left" alt="AndroDevSDA on Google Play" width="25px" src="https://www.gstatic.com/images/branding/product/2x/play_prism_64dp.png"/>
+</a>
+
 [Google Developers](https://developers.google.com/profile/u/110898118534920237945)
 <a href="https://developers.google.com/profile/u/110898118534920237945">
   <img align="left" alt="Sagar Dev Achar on Google Developers" width="25px" src="https://developers.google.com/site-assets/developers_64dp_480.png"/>
@@ -27,11 +32,6 @@ A 22-year old Self-taught **Coder** and **Maker** who is Coding and Making stuff
 [Stack Overflow](https://stackoverflow.com/users/9939262/sagar)
 <a href="https://stackoverflow.com/users/9939262/sagar">
   <img align="left" alt="Sagar Dev Achar on Stack Overflow" width="25px" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/icon-48.png"/>
-</a>
-
-[Google Play](https://play.google.com/store/apps/dev?id=5751796953368988342)
-<a href="https://play.google.com/store/apps/dev?id=5751796953368988342">
-  <img align="left" alt="AndroDevSDA on Google Play" width="25px" src="https://www.gstatic.com/images/branding/product/2x/play_prism_64dp.png"/>
 </a>
 
 [My Music on Instagram](https://www.instagram.com/1498.wav/)
