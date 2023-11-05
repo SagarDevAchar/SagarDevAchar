@@ -2,13 +2,13 @@
 REFERENCE: https://github.com/itsZed0/itsZed0/blob/main/README.md?plain=1
 -->
 
-## Hey there, I'm Sagar 👋
+# Hey there, I'm Sagar 👋
 
 A 22-year old Self-taught **Coder** and **Maker** who is Coding and Making stuff since 2015 💻⚡
 
 ![SagarDevAchar's Skillset](https://user-images.githubusercontent.com/51400137/148717363-56207417-0b41-4d9c-a3a7-ed313be2b546.png)
 
-### My Social Presence 📫
+## My Social Presence 📫
 [LinkedIn](https://www.linkedin.com/in/sagar-dev-achar/)
 <a href="https://www.linkedin.com/in/sagar-dev-achar/">
   <img align="left" alt="Sagar Dev Achar on LinkedIn" width="25px" src="https://github.com/SagarDevAchar/SagarDevAchar/assets/51400137/5c00d60e-8735-4349-8eed-3a4ddbf4feda"/>
@@ -96,13 +96,13 @@ Here are a few **stats** of the work I've done (as of 25th July 2022, generated 
 
 <!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SagarDevAchar&theme=great-gatsby&show_icons=true&hide_border=true&count_private=true)](https://github-readme-stats.vercel.app/) -->
 
-### My Stats 📊
+## My Stats 📊
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=SagarDevAchar&show_icons=true&theme=great-gatsby&hide_border=true&include_all_commits=true&rank_icon=github&show=prs_merged)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SagarDevAchar&theme=great-gatsby&show_icons=true&hide_border=true&layout=donut&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### Recent Activity 🔥
+## Recent Activity 🔥
 
 <!--
 The **Steganography Made Fun!** Toolkit is a 3 part project which aims to simplify Steganography and make it fun
@@ -112,9 +112,14 @@ The **Steganography Made Fun!** Toolkit is a 3 part project which aims to simpli
 
 [![TPM TMP Logo 0](https://user-images.githubusercontent.com/51400137/184077734-01c4a017-067f-47ea-bf25-d75eba3caf6a.png)](https://sagardevachar.github.io/TheTXTHider/)
 -->
-![TTT-OUE Infographics Full](https://user-images.githubusercontent.com/51400137/130944808-9d09198e-4555-4304-a39f-406edfdb973e.png)
 
-**TicTacToe : One-Up Edition**, an Improved Version of the Classic (yet boring) Tic Tac Toe (also known as Noughts and Crosses or XOX)  is now **LIVE** on *Google Play Store* (under the brand name *[Moonlight App Studios](https://play.google.com/store/apps/dev?id=5751796953368988342)*)
+### TicTacToe : One-Up Edition
+
+**TicTacToe : One-Up Edition** is an Improved Version of the Classic (yet boring) Tic Tac Toe (also known as Noughts and Crosses or XOX)
+
+It is now **LIVE** on *Google Play Store* (under the brand name *[Moonlight App Studios](https://play.google.com/store/apps/dev?id=5751796953368988342)*)
+
+![TTT-OUE Infographics Full](https://user-images.githubusercontent.com/51400137/130944808-9d09198e-4555-4304-a39f-406edfdb973e.png)
 
 Rules of the Improved Game
 - Each player has pieces of 3 sizes
