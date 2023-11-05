@@ -129,6 +129,11 @@ Rules of the Improved Game
 
 You can check out the app [here](https://play.google.com/store/apps/details?id=com.sda.ttt)
 
+<a href="https://play.google.com/store/apps/details?id=com.sda.ttt">
+  <img align="left" alt="0x5DA on Instagram" width="150px" src="https://github.com/SagarDevAchar/SagarDevAchar/assets/51400137/91e2d89d-d5f2-4f44-bb80-621f9160368b"/>
+</a>
+
+
 <!--
 ### I’m currently working on 🔨
 
